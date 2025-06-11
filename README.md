@@ -1,6 +1,6 @@
-# 💻 C Programming Practice Repository
+# 💻 C Programming Practice 
 
-Welcome to my **C Programming Practice**! This collection of C programs was created as part of my learning and exploration of core concepts in the C language. The files here cover a wide variety of problems—from basic operations to more complex logic involving matrices, strings, stacks, and more.
+Welcome to my **C Programming Practice Repository**! This collection of C programs was created as part of my learning and exploration of core concepts in the C language. The files here cover a wide variety of problems—from basic operations to more complex logic involving matrices, strings, stacks, and more.
 
 ---
 
