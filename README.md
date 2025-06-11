@@ -15,8 +15,6 @@ Welcome to my **C Programming Practice Repository**! This collection of C progra
   - [🔁 Palindrome Programs](#-palindrome-programs)
   - [🧮 Stack & Queue](#-stack--queue)
 - [▶️ How to Run the Programs](#️-how-to-run-the-programs)
-- [🧠 Learning Objectives](#-learning-objectives)
-- [🙌 Contributions](#-contributions)
 - [📄 License](#-license)
 
 ---
@@ -85,49 +83,6 @@ To compile and run a program:
 gcc filename.c -o output
 ./output
 ```
-
----
-
-## 🧠 Learning Objectives
-
-This repository is designed to help learners:
-
-- **Master Core C Programming Concepts**  
-  Understand fundamental concepts in C programming, including functions, loops, arrays, and conditionals.
-
-- **Practice Problem-Solving Skills**  
-  Work through common coding problems that improve logical thinking, algorithmic skills, and efficiency.
-
-- **Gain Hands-On Experience with Algorithms**  
-  Implement searching algorithms (like binary and linear search), matrix operations, and basic data structures (stack, queue).
-
-- **Understand and Apply Recursion**  
-  Solve problems like palindromes, prime number checks, and other recursion-based problems.
-
-- **Explore Mathematical Concepts in Code**  
-  Solve math-related problems programmatically, such as calculating sums, prime numbers, and handling matrices.
-
----
-
-## 🙌 Contributions
-
-I welcome contributions from the community! Whether you're fixing a bug, adding a new feature, or improving the documentation, here's how you can contribute:
-
-1. **Fork the Repository**  
-   Click the "Fork" button at the top-right of this repository to make your own copy.
-
-2. **Make Changes**  
-   Make your desired changes in the codebase and ensure that everything works as expected.
-
-3. **Create a Pull Request (PR)**  
-   Once your changes are ready, submit a pull request with a clear description of the changes you've made. Feel free to include details about why you made the changes, and what problem they solve or feature they add.
-
-4. **Follow Best Practices**  
-   - Write clean, understandable code.
-   - Provide comments where necessary, especially for complex logic.
-   - Maintain consistent coding style throughout.
-
-All pull requests will be reviewed, and once they meet the standards, they will be merged into the main branch.
 
 ---
 
