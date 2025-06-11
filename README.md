@@ -134,6 +134,3 @@ All pull requests will be reviewed, and once they meet the standards, they will 
 ## 📄 License
 
 This repository is open-source and licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute the code, as long as you include the proper attribution to the original author.
-
-The full terms of the MIT License are as follows:
-
