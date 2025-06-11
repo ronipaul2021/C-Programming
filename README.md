@@ -6,7 +6,7 @@ Welcome to my **C Programming Practice Repository**! This collection of C progra
 
 ## 📑 Table of Contents
 
-- [📚 Categories & File Descriptions]
+- 📚 Categories & File Descriptions
   - [🔢 Basic Programs](#-basic-programs)
   - [🔍 Searching Algorithms](#-searching-algorithms)
   - [📊 Arrays & Matrices](#-arrays--matrices)
