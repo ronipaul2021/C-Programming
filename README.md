@@ -21,15 +21,6 @@ Welcome to my **C Programming Practice**! This collection of C programs was crea
 
 ---
 
-
-
-Let me know if you'd like:
-- A table of contents with clickable links
-- Markdown badges (like language stats, build status)
-- Code examples embedded in the README
-
-I'm happy to help you polish it further!
-
 ### 📊 Arrays & Matrices
 - `2d_array_090558.c` – Basic 2D array operations
 - `2d_array_mul_090600.c` – 2D array multiplication
